@@ -4,9 +4,9 @@
 
 - [x] Lesson 133. App Overview
 - [x] Lesson 134. Parcel Setup
-- [ ] Lesson 135. Framework Structure
-- [ ] Lesson 136. Designing the User
-- [ ] Lesson 137. Retrieving User Properties
+- [x] Lesson 135. Framework Structure
+- [x] Lesson 136. Designing the User
+- [x] Lesson 137. Retrieving User Properties
 - [ ] Lesson 138. Optional Interface Properties
 - [ ] Lesson 139. An Eventing System
 - [ ] Lesson 140. Listener Support
