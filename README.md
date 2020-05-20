@@ -12,9 +12,9 @@
 - [x] Lesson 140. Listener Support
 - [x] Lesson 141. Storing Event Listeners
 - [x] Lesson 142. Dynamic Array Creation
-- [ ] Lesson 143. Triggering Event Callbacks
-- [ ] Lesson 144. Adding JSON Server
-- [ ] Lesson 145. Understanding REST Conventions
+- [x] Lesson 143. Triggering Event Callbacks
+- [x] Lesson 144. Adding JSON Server
+- [x] Lesson 145. Understanding REST Conventions
 - [ ] Lesson 146. Adding Fetch Functionality
 - [ ] Lesson 147. Successfully Fetching Model Data
 - [ ] Lesson 148. Saving User Data
