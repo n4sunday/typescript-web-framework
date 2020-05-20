@@ -16,8 +16,8 @@
 - [x] Lesson 144. Adding JSON Server
 - [x] Lesson 145. Understanding REST Conventions
 - [x] Lesson 146. Adding Fetch Functionality
-- [ ] Lesson 147. Successfully Fetching Model Data
-- [ ] Lesson 148. Saving User Data
+- [x] Lesson 147. Successfully Fetching Model Data
+- [x] Lesson 148. Saving User Data
 - [ ] Lesson 149. Refactoring with Composition
 - [ ] Lesson 150. Re-Integrating Eventing
 - [ ] Lesson 151. Composition with Nested Objects
