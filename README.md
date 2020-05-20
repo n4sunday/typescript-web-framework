@@ -7,7 +7,7 @@
 - [x] Lesson 135. Framework Structure
 - [x] Lesson 136. Designing the User
 - [x] Lesson 137. Retrieving User Properties
-- [ ] Lesson 138. Optional Interface Properties
+- [x] Lesson 138. Optional Interface Properties
 - [ ] Lesson 139. An Eventing System
 - [ ] Lesson 140. Listener Support
 - [ ] Lesson 141. Storing Event Listeners
