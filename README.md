@@ -15,7 +15,7 @@
 - [x] Lesson 143. Triggering Event Callbacks
 - [x] Lesson 144. Adding JSON Server
 - [x] Lesson 145. Understanding REST Conventions
-- [ ] Lesson 146. Adding Fetch Functionality
+- [x] Lesson 146. Adding Fetch Functionality
 - [ ] Lesson 147. Successfully Fetching Model Data
 - [ ] Lesson 148. Saving User Data
 - [ ] Lesson 149. Refactoring with Composition
