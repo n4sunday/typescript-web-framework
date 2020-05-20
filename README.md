@@ -8,10 +8,10 @@
 - [x] Lesson 136. Designing the User
 - [x] Lesson 137. Retrieving User Properties
 - [x] Lesson 138. Optional Interface Properties
-- [ ] Lesson 139. An Eventing System
-- [ ] Lesson 140. Listener Support
-- [ ] Lesson 141. Storing Event Listeners
-- [ ] Lesson 142. Dynamic Array Creation
+- [x] Lesson 139. An Eventing System
+- [x] Lesson 140. Listener Support
+- [x] Lesson 141. Storing Event Listeners
+- [x] Lesson 142. Dynamic Array Creation
 - [ ] Lesson 143. Triggering Event Callbacks
 - [ ] Lesson 144. Adding JSON Server
 - [ ] Lesson 145. Understanding REST Conventions
