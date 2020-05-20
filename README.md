@@ -27,13 +27,13 @@
 - [x] Lesson 155. Generic Constraints Around Sync
 - [x] Lesson 156. Connecting Sync Back to User
 - [x] Lesson 157. Optional Properties
-- [ ] Lesson 158. Extracting an Attributes Class
-- [ ] Lesson 159. The Get Method's Shortcoming
-- [ ] Lesson 160. Two Important Rules
-- [ ] Lesson 161. An Advanced Generic Constraint
-- [ ] Lesson 162. Re-Integrating Attributes
-- [ ] Lesson 163. Composition is Delegation
-- [ ] Lesson 164. Reminder on Accessors
+- [x] Lesson 158. Extracting an Attributes Class
+- [x] Lesson 159. The Get Method's Shortcoming
+- [x] Lesson 160. Two Important Rules
+- [x] Lesson 161. An Advanced Generic Constraint
+- [x] Lesson 162. Re-Integrating Attributes
+- [x] Lesson 163. Composition is Delegation
+- [x] Lesson 164. Reminder on Accessors
 - [ ] Lesson 165. Passthrough Methods
 - [ ] Lesson 166. A Context Issue
 - [ ] Lesson 167. Setting Data While Triggering
