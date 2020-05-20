@@ -18,13 +18,13 @@
 - [x] Lesson 146. Adding Fetch Functionality
 - [x] Lesson 147. Successfully Fetching Model Data
 - [x] Lesson 148. Saving User Data
-- [ ] Lesson 149. Refactoring with Composition
-- [ ] Lesson 150. Re-Integrating Eventing
-- [ ] Lesson 151. Composition with Nested Objects
-- [ ] Lesson 152. A More Complicated Extraction
-- [ ] Lesson 153. Options for Adapting Sync
-- [ ] Lesson 154. Refactoring Sync
-- [ ] Lesson 155. Generic Constraints Around Sync
+- [x] Lesson 149. Refactoring with Composition
+- [x] Lesson 150. Re-Integrating Eventing
+- [x] Lesson 151. Composition with Nested Objects
+- [x] Lesson 152. A More Complicated Extraction
+- [x] Lesson 153. Options for Adapting Sync
+- [x] Lesson 154. Refactoring Sync
+- [x] Lesson 155. Generic Constraints Around Sync
 - [ ] Lesson 156. Connecting Sync Back to User
 - [ ] Lesson 157. Optional Properties
 - [ ] Lesson 158. Extracting an Attributes Class
