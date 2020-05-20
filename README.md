@@ -25,8 +25,8 @@
 - [x] Lesson 153. Options for Adapting Sync
 - [x] Lesson 154. Refactoring Sync
 - [x] Lesson 155. Generic Constraints Around Sync
-- [ ] Lesson 156. Connecting Sync Back to User
-- [ ] Lesson 157. Optional Properties
+- [x] Lesson 156. Connecting Sync Back to User
+- [x] Lesson 157. Optional Properties
 - [ ] Lesson 158. Extracting an Attributes Class
 - [ ] Lesson 159. The Get Method's Shortcoming
 - [ ] Lesson 160. Two Important Rules
